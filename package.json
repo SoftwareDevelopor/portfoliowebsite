@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^1.12.2",
+    "react-toastify": "^11.0.5"
+  },
+  "name": "portfoliowebsite",
+  "version": "1.0.0",
+  "description": "[https://portfoliowebsite-alpha-sooty.vercel.app/](https://portfoliowebsite-alpha-sooty.vercel.app/)",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftwareDevelopor/portfoliowebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SoftwareDevelopor/portfoliowebsite/issues"
+  },
+  "homepage": "https://github.com/SoftwareDevelopor/portfoliowebsite#readme"
+}
